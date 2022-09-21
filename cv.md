@@ -2,6 +2,7 @@
 *****
 *****
 
+<img src="./assets/img/i.png" alt="Portrait" width="300">
 
 
 # **Alexander Demeshchenko**  **{ hell_llex }**
@@ -95,7 +96,7 @@ str.toUpCase()
 *****
 *****
 
-
+<img src="./assets/img/logo.gif" alt="Logo" height="100">
 
 ## **hell_llex**
 
